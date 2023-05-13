@@ -11,8 +11,10 @@
     "react-icons": "^4.8.0",
     "react-redux": "^8.0.5",
     "react-scripts": "5.0.1",
+    "reducer-redux": "^1.2.1",
     "redux": "^4.2.1",
     "redux-devtools-extension": "^2.13.9",
+    "redux-provider": "^1.0.29",
     "redux-thunk": "^2.4.2",
     "web-vitals": "^2.1.4"
   },
